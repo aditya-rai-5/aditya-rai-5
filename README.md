@@ -5,7 +5,7 @@
 - 🌱 I’m learning advanced ML techniques like **Transformers**, **RAG**, and **Model Optimization**
 - 👯 I’m looking to collaborate on **AI for social impact and startups**
 - 💬 Ask me about: **PyTorch, NLP, Computer Vision, LangChain**
-- 📫 Reach me at: [mc240041002.gmail@iiti.ac.in](mailto:mc240041002@iiti.ac.in)
+- 📫 Reach me at: [mc240041002@iiti.ac.in](mailto:mc240041002.gmail@iiti.ac.in)
 - ⚡ Fun fact: I started from a village and now build AI systems at IIT 😄
 
 ---
