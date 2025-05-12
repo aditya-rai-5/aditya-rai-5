@@ -12,14 +12,14 @@
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface)
-![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
-![RAG](https://img.shields.io/badge/-RAG-333333?style=flat)
-![NLP](https://img.shields.io/badge/-NLP-333333?style=flat)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=opencv)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python "Python is a high-level, interpreted language")](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch "PyTorch: a dynamic DL framework")](https://pytorch.org/)
+[![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface "Hugging Face Transformers library")](https://huggingface.co/transformers/)
+[![RAG](https://img.shields.io/badge/-RAG-333333?style=flat "Retrieval-Augmented Generation")](https://github.com/langchain-ai/langchain#retrieval-augmented-generation)
+[![NLP](https://img.shields.io/badge/-NLP-333333?style=flat "Natural Language Processing techniques")](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=flat&logo=opencv "Computer Vision methods")](https://opencv.org/)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit "Streamlit: easy ML app deployment")](https://streamlit.io/)
+
 
 ---
 
