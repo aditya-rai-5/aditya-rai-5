@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Video Super-Resolution with BasicVSR++**
+- 🔭 I’m currently working on **IITI BOT**
 - 🧠 I’m also practicing **Data Structures & Algorithms in C++**
 - 🌱 I’m learning advanced ML techniques like **Transformers**, **RAG**, and **Model Optimization**
 - 👯 I’m looking to collaborate on **AI for social impact and startups**
