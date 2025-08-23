@@ -7,12 +7,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **IITI BOT**
+- 🔭 I’m currently working on **WEB DEV SKILLS**
 - 🧠 I’m also practicing **Data Structures & Algorithms in C++**
 - 🌱 I’m learning advanced ML techniques like **Transformers**, **RAG**, and **Model Optimization**
 - 👯 I’m looking to collaborate on **AI for social impact and startups**
-- 💬 Ask me about: **PyTorch, NLP, Computer Vision, LangChain**
-- ⚡ Fun fact: I started from a village and now build AI systems at IIT 😄
+- 💬 Ask me about: **PyTorch, NLP, Computer Vision, Pathway, LangChain**
 - 🌟 Passionate about leveraging AI to solve real-world challenges and drive innovation.
 
 ---
