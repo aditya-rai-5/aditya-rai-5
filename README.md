@@ -9,9 +9,9 @@
 
 ### About Me
 
-- 🎓 Currently studying and building my foundation in software development
-- 🌱 Learning new tools, languages, and best practices every day
-- 💡 Interested in problem-solving, open-source, and building real projects
+- Currently studying and building my foundation in software development
+- Learning new tools, languages, and best practices every day
+- Interested in problem-solving, open-source, and building real projects
 
 ---
 
