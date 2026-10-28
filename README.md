@@ -17,7 +17,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,js,rust" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,js" />
 </p>
 
 <!-- Edit the "i=" list above (comma-separated) to match your actual stack.
