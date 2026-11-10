@@ -28,7 +28,7 @@ Full list of supported icons: https://skillicons.dev -->
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aditya-rai-5&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aditya-rai-5&show_icons=true&show=prs_merged&theme=default&hide_border=true" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aditya-rai-5&layout=compact&theme=default&hide_border=true" />
 </p>
 
